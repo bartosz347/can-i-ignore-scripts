@@ -127,7 +127,8 @@
         "@naugtur/pentest-my-ci": "exists to check if it's been ignored",
         "@lavamoat/preinstall-always-fail": "exists to check if it's been ignored",
         "good_dep": "false detection from test files",
-        "evil_dep": "false detection from test files"
+        "evil_dep": "false detection from test files",
+        "type-graphql": "funding"
     },
     "todo": {
         "@ant-design/tools": "todo",
@@ -327,7 +328,6 @@
         "serverless": "todo",
         "sinon": "todo",
         "sq-native": "todo",
-        "type-graphql": "todo",
         "win-ca": "todo",
         "wiremock-standalone": "todo"
     }
